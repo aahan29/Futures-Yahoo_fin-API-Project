@@ -9,7 +9,7 @@ import yahoo_fin.stock_info as si
 import pandas as pd
 
 # general futures ticker // could be continuous?
-ticker = "GCU1"
+ticker = "AAPL"
                    
 # specific contract ticker                   
 # ticker = "AAPL"
